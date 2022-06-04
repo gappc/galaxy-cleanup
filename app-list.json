@@ -1,0 +1,692 @@
+[
+  {
+    "app": "Android Auto",
+    "package": "com.google.android.projection.gearhead",
+    "description": "Android Auto, used to control your phone in a car",
+    "operation": "delete"
+  },
+  {
+    "app": "Android Q Easter Egg",
+    "package": "com.android.egg",
+    "description": "Android easter egg in settings",
+    "operation": "nop"
+  },
+  {
+    "app": "Apps",
+    "package": "com.samsung.android.app.appsedge",
+    "description": "the side toolbar enabled by default",
+    "operation": "disable"
+  },
+  {
+    "app": "AR apps",
+    "package": "com.samsung.android.visionarapps",
+    "description": "AR Related stuff in camera, can be removed if you don't use AR",
+    "operation": "delete"
+  },
+  {
+    "app": "AR Doodle",
+    "package": "com.samsung.android.ardrawing",
+    "description": "AR Related stuff in camera, can be removed if you don't use AR",
+    "operation": "delete"
+  },
+  {
+    "app": "AR Emoji",
+    "package": "com.samsung.android.aremoji",
+    "description": "AR Related stuff in camera, can be removed if you don't use AR",
+    "operation": "delete"
+  },
+  {
+    "app": "AR Emoji Editor",
+    "package": "com.samsung.android.aremojieditor",
+    "description": "AR Related stuff in camera, can be removed if you don't use AR",
+    "operation": "delete"
+  },
+  {
+    "app": "AR Emoji Stickers",
+    "package": "com.sec.android.mimage.avatarstickers",
+    "description": "AR Related stuff in camera, can be removed if you don't use AR",
+    "operation": "delete"
+  },
+  {
+    "app": "AR Zone",
+    "package": "com.samsung.android.arzone",
+    "description": "AR Related stuff in camera, can be removed if you don't use AR",
+    "operation": "delete"
+  },
+  {
+    "app": "ARCore",
+    "package": "com.google.ar.core",
+    "description": "AR Related stuff in camera, can be removed if you don't use AR",
+    "operation": "disable"
+  },
+  {
+    "app": "Autofill with Samsung Pass",
+    "package": "com.samsung.android.samsungpassautofill",
+    "description": "Samsung Pass autofill, required by Samsung Pass",
+    "operation": "delete"
+  },
+  {
+    "app": "BBCAgent",
+    "package": "com.samsung.android.bbc.bbcagent",
+    "description": "Component of Samsung knox",
+    "operation": "nop"
+  },
+  {
+    "app": "Bixby Routines",
+    "package": "com.samsung.android.app.routines",
+    "description": "Bixby routine apk, allows you to schedules tasks",
+    "operation": "delete"
+  },
+  {
+    "app": "Bixby Service",
+    "package": "com.samsung.android.bixby.service",
+    "description": "Bixby service, required in order to have bixby working properly",
+    "operation": "delete"
+  },
+  {
+    "app": "Bixby Voice",
+    "package": "com.samsung.android.bixby.agent",
+    "description": "Bixby agent, required in order to have bixby working properly",
+    "operation": "delete"
+  },
+  {
+    "app": "Bixby Voice Stub",
+    "package": "com.samsung.android.bixby.agent.dummy",
+    "description": "Bixby agent dummy, required in order to have bixby working properly",
+    "operation": "delete"
+  },
+  {
+    "app": "Bixby Vision Framework",
+    "package": "com.samsung.android.bixbyvision.framework",
+    "description": "Bixby Vision Framework",
+    "operation": "delete"
+  },
+  {
+    "app": "Bixby Vision Intelligence",
+    "package": "com.samsung.android.visionintelligence",
+    "description": "Bixby Vision Intelligence",
+    "operation": "delete"
+  },
+  {
+    "app": "Bookmark Provider",
+    "package": "com.android.bookmarkprovider",
+    "description": "Unknown app related to bookmarks, some people have removed it",
+    "operation": "nop"
+  },
+  {
+    "app": "Calculator",
+    "package": "com.sec.android.app.popupcalculator",
+    "description": "Android default calculator",
+    "operation": "nop"
+  },
+  {
+    "app": "Calendar",
+    "package": "com.samsung.android.calendar",
+    "description": "Samsung calendar",
+    "operation": "disable"
+  },
+  {
+    "app": "CarmodeStub",
+    "package": "com.samsung.android.drivelink.stub",
+    "description": "Car mode stuff, if you don't use Android car mode can be removed",
+    "operation": "nop"
+  },
+  {
+    "app": "CarrierDefaultApp",
+    "package": "com.android.carrierdefaultapp",
+    "description": "Default carrier app allows carrier customization. OEMs could configure a list of carrier actions",
+    "operation": "nop"
+  },
+  {
+    "app": "CIDManager",
+    "package": "com.samsung.android.cidmanager",
+    "description": "Cid Manager is a tool enabling secure, real-time management of the company number service Telia Cid. Cid Manager makes it possible to view and edit information on Cid numbers and their users.",
+    "operation": "nop"
+  },
+  {
+    "app": "Clipboard edge",
+    "package": "com.samsung.android.app.clipboardedge",
+    "description": "Clipboard edge service, can be removed if you want to get rid of Samsung's clipboard history",
+    "operation": "delete"
+  },
+  {
+    "app": "ClipboardSaveService",
+    "package": "com.samsung.clipboardsaveservice",
+    "description": "Clipboard save service, can be removed if you want to get rid of Samsung's clipboard history",
+    "operation": "delete"
+  },
+  {
+    "app": "ClipboardUIService",
+    "package": "com.samsung.clipboarduiservice",
+    "description": "Clipboard UI service, can be removed if you want to get rid of Samsung's clipboard history",
+    "operation": "delete"
+  },
+  {
+    "app": "com.samsung.android.knox.attestation",
+    "package": "com.samsung.android.knox.attestation",
+    "description": "Component of Samsung knox",
+    "operation": "disable"
+  },
+  {
+    "app": "com.sec.enterprise.knox.attestation",
+    "package": "com.sec.enterprise.knox.attestation",
+    "description": "Knox enterprise related stuff",
+    "operation": "disable"
+  },
+  {
+    "app": "Configuration update",
+    "package": "com.samsung.android.app.omcagent",
+    "description": "Unknown app some people have removed it",
+    "operation": "nop"
+  },
+  {
+    "app": "Crocro and friends",
+    "package": "com.samsung.android.app.camera.sticker.facearavatar.preload",
+    "description": "Stickers in camera",
+    "operation": "delete"
+  },
+  {
+    "app": "DECO PIC",
+    "package": "com.samsung.android.livestickers",
+    "description": "Live stickers application I believe it's for camera",
+    "operation": "delete"
+  },
+  {
+    "app": "Device Personalization Services",
+    "package": "com.google.android.as",
+    "description": "Android personalization service, some people have removed it successfully, I haven't tested it tho, so uninstall at your own risk",
+    "operation": "disable"
+  },
+  {
+    "app": "Device security",
+    "package": "com.samsung.android.sm.devicesecurity",
+    "description": "Device security",
+    "operation": "disable"
+  },
+  {
+    "app": "DeX for PC",
+    "package": "com.sec.android.app.dexonpc",
+    "description": "DeX application for PC",
+    "operation": "nop"
+  },
+  {
+    "app": "Digital Wellbeing and parental controls",
+    "package": "com.samsung.android.forest",
+    "description": "This app follows your phone usage (Screen on time etc) can be removed safely",
+    "operation": "delete"
+  },
+  {
+    "app": "Dual Messenger",
+    "package": "com.samsung.android.da.daagent",
+    "description": "This app allows you to install multiple instances of one app",
+    "operation": "delete"
+  },
+  {
+    "app": "Duo",
+    "package": "com.google.android.apps.tachyon",
+    "description": "Google duo application",
+    "operation": "delete"
+  },
+  {
+    "app": "Edge screen",
+    "package": "com.samsung.android.app.cocktailbarservice",
+    "description": "The edge panel, don't forget to remove the Clipboard edge app too if you remove this",
+    "operation": "delete"
+  },
+  {
+    "app": "Facebook",
+    "package": "com.facebook.katana",
+    "description": "Facebook application",
+    "operation": "delete"
+  },
+  {
+    "app": "Facebook App Installer",
+    "package": "com.facebook.system",
+    "description": "Not required by Facebook app",
+    "operation": "delete"
+  },
+  {
+    "app": "Facebook App Manager",
+    "package": "com.facebook.appmanager",
+    "description": "Not required by Facebook app",
+    "operation": "delete"
+  },
+  {
+    "app": "Facebook Services",
+    "package": "com.facebook.services",
+    "description": "Not required by Facebook app",
+    "operation": "delete"
+  },
+  {
+    "app": "FaceService",
+    "package": "com.samsung.faceservice",
+    "description": "FaceService",
+    "operation": "disable"
+  },
+  {
+    "app": "Find My Mobile",
+    "package": "com.samsung.android.fmm",
+    "description": "Finder",
+    "operation": "disable"
+  },
+  {
+    "app": "Finder",
+    "package": "com.samsung.android.app.galaxyfinder",
+    "description": "Finder",
+    "operation": "disable"
+  },
+  {
+    "app": "Game Booster",
+    "package": "com.samsung.android.game.gametools",
+    "description": "Game booster function from game launcher",
+    "operation": "delete"
+  },
+  {
+    "app": "Game Launcher",
+    "package": "com.samsung.android.game.gamehome",
+    "description": "Game Launcher application",
+    "operation": "delete"
+  },
+  {
+    "app": "Game Optimizing Service",
+    "package": "com.samsung.android.game.gos",
+    "description": "Some people have got performances improvement, some others have got issues removing it, you may want to try",
+    "operation": "delete"
+  },
+  {
+    "app": "Google",
+    "package": "com.google.android.googlequicksearchbox",
+    "description": "Google quick search box",
+    "operation": "delete"
+  },
+  {
+    "app": "Google Text-to-speech Engine",
+    "package": "com.google.android.tts",
+    "description": "Your system need at least 1 text to speech engine or it could cause issues so don't remove both Google and Samsung TTS",
+    "operation": "nop"
+  },
+  {
+    "app": "Health Service",
+    "package": "com.sec.android.service.health",
+    "description": "Used by Samsung Health application",
+    "operation": "delete"
+  },
+  {
+    "app": "Knox Analytics Uploader",
+    "package": "com.sec.enterprise.knox.analytics.uploader",
+    "description": "Component of Samsung knox",
+    "operation": "disable"
+  },
+  {
+    "app": "Knox Enrollment Service",
+    "package": "com.sec.enterprise.knox.cloudmdm.smdms",
+    "description": "Component of Samsung knox",
+    "operation": "disable"
+  },
+  {
+    "app": "Knox Key Chain",
+    "package": "com.samsung.knox.keychain",
+    "description": "KeyChain provides access to private keys and their corresponding certificate chains in credential storage.",
+    "operation": "disable"
+  },
+  {
+    "app": "KnoxPushManager",
+    "package": "com.samsung.android.knox.pushmanager",
+    "description": "Proxy Auto Configuration for knox",
+    "operation": "disable"
+  },
+  {
+    "app": "KnoxVpnPacProcessor",
+    "package": "com.knox.vpn.proxyhandler",
+    "description": "Proxy Auto Configuration for knox",
+    "operation": "disable"
+  },
+  {
+    "app": "LED Cover",
+    "package": "com.samsung.android.app.ledbackcover",
+    "description": "Used for led cover case can be removed if you don't have one",
+    "operation": "nop"
+  },
+  {
+    "app": "LED Cover Service",
+    "package": "com.sec.android.cover.ledcover",
+    "description": "Used for led cover case can be removed if you don't have one",
+    "operation": "nop"
+  },
+  {
+    "app": "Link Sharing",
+    "package": "com.samsung.android.app.simplesharing",
+    "description": "Link Sharing",
+    "operation": "disable"
+  },
+  {
+    "app": "Link to Windows Service",
+    "package": "com.samsung.android.mdx",
+    "description": "Used by Your Phone application can be removed if you haven't linked your phone to your PC",
+    "operation": "delete"
+  },
+  {
+    "app": "OK Google enrollment",
+    "package": "com.android.hotwordenrollment.okgoogle",
+    "description": "Ok Google stuff",
+    "operation": "nop"
+  },
+  {
+    "app": "Messaging",
+    "package": "com.samsung.android.messaging",
+    "description": "Messaging",
+    "operation": "disable"
+  },
+  {
+    "app": "Onedrive",
+    "package": "com.microsoft.skydrive",
+    "description": "Onedrive application",
+    "operation": "delete"
+  },
+  {
+    "app": "PartnerNetflixActivation",
+    "package": "com.netflix.partner.activation",
+    "description": "Netflix stuff, no idea what that is, Netflix works without it",
+    "operation": "delete"
+  },
+  {
+    "app": "Personal home",
+    "package": "com.samsung.android.knox.containercore",
+    "description": "Component of Samsung knox",
+    "operation": "disable"
+  },
+  {
+    "app": "Private Share",
+    "package": "com.samsung.android.privateshare",
+    "description": "Private Share",
+    "operation": "delete"
+  },
+  {
+    "app": "Quick share",
+    "package": "com.samsung.android.app.sharelive",
+    "description": "Quick share",
+    "operation": "delete"
+  },
+  {
+    "app": "Radio",
+    "package": "com.sec.android.app.fm",
+    "description": "Radio",
+    "operation": "disable"
+  },
+  {
+    "app": "Reminder",
+    "package": "com.samsung.android.app.reminder",
+    "description": "Reminder application",
+    "operation": "disable"
+  },
+  {
+    "app": "Samsung Blockchain Keystore",
+    "package": "com.samsung.android.coldwalletservice",
+    "description": "Samsung Blockchain Keystore",
+    "operation": "delete"
+  },
+  {
+    "app": "Samsung Checkout",
+    "package": "com.sec.android.app.billing",
+    "description": "Samsung Checkout",
+    "operation": "delete"
+  },
+  {
+    "app": "Samsung Cloud",
+    "package": "com.samsung.android.scloud",
+    "description": "Samsung cloud application",
+    "operation": "disable"
+  },
+  {
+    "app": "Samsung Daily",
+    "package": "com.samsung.android.app.spage",
+    "description": "Samsung daily application",
+    "operation": "nop"
+  },
+  {
+    "app": "Samsung DeX",
+    "package": "com.sec.android.desktopmode.uiservice",
+    "description": "Samsung DeX application",
+    "operation": "nop"
+  },
+  {
+    "app": "Samsung DeX home",
+    "package": "com.sec.android.app.desktoplauncher",
+    "description": "Samsung DeX application",
+    "operation": "nop"
+  },
+  {
+    "app": "Samsung DeX System UI",
+    "package": "com.sec.android.desktopsystemui",
+    "description": "Samsung DeX application",
+    "operation": "nop"
+  },
+  {
+    "app": "Samsung First Start Wizard",
+    "package": "com.sec.android.app.SecSetupWizard",
+    "description": "Samsung First Start Wizard",
+    "operation": "delete"
+  },
+  {
+    "app": "Samsung Galaxy Friends",
+    "package": "com.samsung.android.mateagent",
+    "description": "Galaxy Friends application",
+    "operation": "delete"
+  },
+  {
+    "app": "Samsung Health",
+    "package": "com.samsung.android.service.health",
+    "description": "Samsung Health",
+    "operation": "disable"
+  },
+  {
+    "app": "Samsung Internet Panel",
+    "package": "com.samsung.android.app.sbrowseredge",
+    "description": "S Browser edge bar",
+    "operation": "nop"
+  },
+  {
+    "app": "Samsung Kids Installer",
+    "package": "com.samsung.android.kidsinstaller",
+    "description": "Samsung kids mode can be removed if you don't use kids mode",
+    "operation": "delete"
+  },
+  {
+    "app": "Samsung Location SDK",
+    "package": "com.sec.location.nsflp2",
+    "description": "Probably an app used by other apps for location, people have removed it successfully",
+    "operation": "disable"
+  },
+  {
+    "app": "Samsung MirrorLink 1.1",
+    "package": "com.samsung.android.app.mirrorlink",
+    "description": "Mirror Link is used to connect your phone to your car, if your car does not handle mirror link this apk is useless",
+    "operation": "disable"
+  },
+  {
+    "app": "Samsung Multi Connectivity",
+    "package": "com.samsung.android.mcfserver",
+    "description": "Samsung Multi Connectivity",
+    "operation": "disable"
+  },
+  {
+    "app": "Samsung Pass Auth Framework",
+    "package": "com.samsung.android.authfw",
+    "description": "Samsung pass stuff",
+    "operation": "delete"
+  },
+  {
+    "app": "Samsung Pass Provider",
+    "package": "com.samsung.android.samsungpass",
+    "description": "Samsung pass stuff",
+    "operation": "delete"
+  },
+  {
+    "app": "Samsung Pay Framework",
+    "package": "com.samsug.android.spayfw",
+    "description": "Samsung pay related apk, can't be uninstalled but can be disabled trough ADB, disable it if you removed Samsung Pay because this may cause battery drain",
+    "operation": "disable"
+  },
+  {
+    "app": "Samsung Push Service",
+    "package": "com.sec.spp.push",
+    "description": "Samsung Push Service is an app that sends brand-specific notifications to your Samsung phone.",
+    "operation": "delete"
+  },
+  {
+    "app": "Samsung Visit In",
+    "package": "com.samsung.android.ipsgeofence",
+    "description": "Geofencing application provided by Samsung, only used when user enable localization and geofencing apparently",
+    "operation": "disable"
+  },
+  {
+    "app": "Secure Folder",
+    "package": "com.samsung.knox.securefolder",
+    "description": "Secure Folder application, be aware that this app is called by other apps, recommended to disable only",
+    "operation": "disable"
+  },
+  {
+    "app": "Secure Wi-Fi",
+    "package": "com.samsung.android.fast",
+    "description": "Secure Wi-Fi application",
+    "operation": "delete"
+  },
+  {
+    "app": "Separated Apps",
+    "package": "com.samsung.android.appseparation",
+    "description": "Separated Apps",
+    "operation": "disable"
+  },
+  {
+    "app": "SettingsBixby",
+    "package": "com.samsung.android.app.settings.bixby",
+    "description": "Bixby settings app",
+    "operation": "delete"
+  },
+  {
+    "app": "SharedDeviceKeyguard",
+    "package": "com.sec.entreprise.knox.shareddevice.keyguard",
+    "description": "Component of Samsung knox",
+    "operation": "disable"
+  },
+  {
+    "app": "Smart Call",
+    "package": "com.samsung.android.smartcallprovider",
+    "description": "Smart Call Spam Detection",
+    "operation": "delete"
+  },
+  {
+    "app": "Smart Switch",
+    "package": "com.samsung.android.smartswitchassistant",
+    "description": "Smart Switch application is used to connect the phone to the Smart Switch software on PC",
+    "operation": "nop"
+  },
+  {
+    "app": "Smart Switch Agent",
+    "package": "com.sec.android.easyMover.agent",
+    "description": "Smart Switch application stuff",
+    "operation": "nop"
+  },
+  {
+    "app": "Smarthings",
+    "package": "com.samsung.android.beaconmanager",
+    "description": "Smart things application is used to help you to connect periphericals such as bluetooth headset to your phone, you can just use Android's bluetooth tho",
+    "operation": "delete"
+  },
+  {
+    "app": "StickerCenter",
+    "package": "com.samsung.android.stickercenter",
+    "description": "Probably related to camera stickers",
+    "operation": "delete"
+  },
+  {
+    "app": "SystemUIBixby2",
+    "package": "com.samsung.systemui.bixby2",
+    "description": "Bixby app, can be removed if you don't want Bixby",
+    "operation": "delete"
+  },
+  {
+    "app": "Tips",
+    "package": "com.samsung.android.app.tips",
+    "description": "Samsung tips application",
+    "operation": "nop"
+  },
+  {
+    "app": "upday",
+    "package": "de.axelspringer.yana.zeropage",
+    "description": "Upday application",
+    "operation": "delete"
+  },
+  {
+    "app": "User manual",
+    "package": "com.sec.android.widgetapp.webmanual",
+    "description": "User manual in settings",
+    "operation": "nop"
+  },
+  {
+    "app": "Video call effects",
+    "package": "com.samsung.android.vtcamerasettings",
+    "description": "Video call effects",
+    "operation": "delete"
+  },
+  {
+    "app": "Video-Player",
+    "package": "com.samsung.android.video",
+    "description": "Video-Player",
+    "operation": "disable"
+  },
+  {
+    "app": "Voice wake-up",
+    "package": "com.samsung.android.bixby.wakeup",
+    "description": "Bixby wake up feature",
+    "operation": "nop"
+  },
+  {
+    "app": "Wearable Manager Installer",
+    "package": "com.samsung.android.app.watchmanagerstub",
+    "description": "Watch manager application",
+    "operation": "delete"
+  },
+  {
+    "app": "Weather",
+    "package": "com.sec.android.daemonapp",
+    "description": "Samsung Weather widgets",
+    "operation": "delete"
+  },
+  {
+    "app": "What's new",
+    "package": "com.samsung.android.app.social",
+    "description": "Left page of the launcher",
+    "operation": "nop"
+  },
+  {
+    "app": "Work profile",
+    "package": "com.samsung.android.knox.containeragent",
+    "description": "Component of Samsung knox",
+    "operation": "disable"
+  },
+  {
+    "app": "Work Setup",
+    "package": "com.android.managedprovisioning",
+    "description": "Work mode for enterprises",
+    "operation": "nop"
+  },
+  {
+    "app": "X Google enrollment",
+    "package": "com.android.hotwordenrollment.xgoogle",
+    "description": "Google application stuff",
+    "operation": "nop"
+  },
+  {
+    "app": "Your Phone Companion",
+    "package": "com.microsoft.appmanager",
+    "description": "Your phone for Windows, if you haven't linked your phone to your PC you can remove this",
+    "operation": "delete"
+  },
+  {
+    "app": "YouTube",
+    "package": "com.google.android.youtube",
+    "description": "YouTube",
+    "operation": "delete"
+  }
+]
